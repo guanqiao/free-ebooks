@@ -1,6 +1,6 @@
 # :books: free-ebooks :books:
 
-Place to keep free ebooks about computer science and math.
+Place to keep free ebooks about Computer Science and Math.
 
 ### :speech_balloon: Languages
 
@@ -10,7 +10,15 @@ The ebooks written in Portuguese, however, have the `(PT)` prefix to indicate it
 
 The folders are all in English, to make things easy.
 
-### :notebook_with_decorative_cover: Usage
+### :elephant: Large books
+
+Github does not allow the storage of files larger than 100 MB :disappointed:
+
+In order to work around this, large `.pdf` ebooks are replaced with `.txt` files containing an external link to the ebook.
+
+If you wish to download all the large ebooks that are missing from this repo, check out [this](https://drive.google.com/file/d/1hAidt9lHyMdtHeELXd3XMoNQA0-G_DFA/view?usp=sharing) `.zip` file.
+
+### :green_book: Usage
 
 As the name of the repo implies, all the ebooks are free to download, read, share and so on.
 
