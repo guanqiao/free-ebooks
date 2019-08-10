@@ -10,7 +10,7 @@ The ebooks written in Portuguese, however, have the `(PT)` prefix to indicate it
 
 The folders are all in English, to make things easy.
 
-### :elephant: Large books
+### :elephant: Large ebooks
 
 Github does not allow the storage of files larger than 100 MB :disappointed:
 
