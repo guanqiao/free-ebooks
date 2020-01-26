@@ -23,3 +23,7 @@ If you wish to download all the large ebooks that are missing from this repo, ch
 As the name of the repo implies, all the ebooks are free to download, read, share and so on.
 
 However, it's **strongly** recommended not to use them for commercial purposes.
+
+### :trophy: Credits
+
+All credits go to the ebook's author.
