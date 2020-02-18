@@ -14,7 +14,7 @@ The folders are all in English, to make things easy.
 
 Github does not allow the storage of files larger than 100 MB :disappointed:
 
-In order to work around this, large `.pdf` ebooks are replaced with `.txt` files containing an external link to the ebook.
+In order to work around this, large `.pdf` ebooks are replaced with `.txt` files containing an external link to the ebook (you might want to read [this](https://github.com/PauloGSC/free-ebooks/issues/1) issue).
 
 If you wish to download all the large ebooks that are missing from this repo, check out [this](https://drive.google.com/file/d/1hAidt9lHyMdtHeELXd3XMoNQA0-G_DFA/view?usp=sharing) `.zip` file.
 
