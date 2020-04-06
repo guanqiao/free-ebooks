@@ -1,3 +1,5 @@
+MARTINEZ, E. R. React: Cross-Platform Application Development with React Native. 2018.
+
 ZAMBRANO, B. Serverless Design Patterns and Best Practices. 2018.
 
 WAHER, P. Mastering Internet of Things. 2018.
