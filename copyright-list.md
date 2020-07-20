@@ -4,7 +4,7 @@
 | Book | License/Copyright |
 |:----:|:---------:|
 | Codigo Limpo_ Habilidades e Praticas do Agile Software | Copyright © 2009 Pearson Education, Inc. |
-| Logica de programacao_ Crie seus primeiros programas usando Javascript e HTML |  |
+| Logica de programacao_ Crie seus primeiros programas usando Javascript e HTML | © Casa do Código |
 | Algorithms For Dummies | Copyright © 2017 by John Wiley & Sons, Inc., Hoboken, New Jersey |
 | Clean Code_ A Handbook of Agile Software Craftsmanship | Copyright © 2009 Pearson Education, Inc. |
 | Concise Guide to Object-Oriented Programming | © Springer Nature Switzerland AG 2019 |
@@ -293,17 +293,17 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Armazenando dados com Redis |  |
-| MongoDB_ Construa novas aplicacoes com novas tecnologias |  |
-| MySQL_ Comece com o principal banco de dados open source do mercado |  |
-| PL-SQL_ Domine a linguagem do banco de dados Oracle |  |
-| Projeto de Banco de Dados |  |
-| SQL_ Uma abordagem para bancos de dados Oracle |  |
+| Armazenando dados com Redis | © Casa do Código |
+| MongoDB_ Construa novas aplicacoes com novas tecnologias | © Casa do Código |
+| MySQL_ Comece com o principal banco de dados open source do mercado | © Casa do Código |
+| PL-SQL_ Domine a linguagem do banco de dados Oracle | © Casa do Código |
+| Projeto de Banco de Dados | © Carlos A. Heuser, 1998 |
+| SQL_ Uma abordagem para bancos de dados Oracle | © Casa do Código |
 | Sistema de Banco de Dados - Silberschatz |  |
-| Sistemas de Banco de dados - Elmasri |  |
-| Concise Guide to Databases |  |
-| PostgresSQL 9.5 Documentation |  |
-| SQL For Dummies |  |
+| Sistemas de Banco de dados - Elmasri | © 2011 by Pearson Education do Brasil |
+| Concise Guide to Databases | © Springer-Verlag London 2013 |
+| PostgresSQL 9.5 Documentation | [Specific license][postgresql-doc] |
+| SQL For Dummies | Copyright © 2013 by John Wiley & Sons, Inc., Hoboken, New Jersey |
 
 ## Digital Circuits
 
@@ -931,6 +931,7 @@
 
 
 [rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
+[postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 [CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
