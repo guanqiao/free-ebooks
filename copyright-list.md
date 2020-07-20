@@ -182,22 +182,22 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Beginning C++ Game Programming |  |
-| Beginning C++ Programming |  |
-| C++ Cookbook |  |
-| C++ For Dummies |  |
-| C++ Pocket Reference |  |
-| C++ Today |  |
-| C++: The Complete Reference |  |
-| Guide to Scientific Computing in C++ |  |
-| Mastering C++ Multithreading |  |
-| Object-Oriented Programming in C++ |  |
-| SDL Game Development |  |
-| SFML Blueprints |  |
-| SFML Essentials |  |
-| SFML Game Development By Example |  |
-| SFML Game Development |  |
-| The C++ Standard Library_ A Tutorial and Reference |  |
+| Beginning C++ Game Programming | Copyright © 2016 Packt Publishing |
+| Beginning C++ Programming | Copyright © 2017 Packt Publishing |
+| C++ Cookbook | Copyright © 2006 O’Reilly Media, Inc. |
+| C++ For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| C++ Pocket Reference | Copyright © 2003 O’Reilly Media, Inc. |
+| C++ Today | Copyright © 2015 O’Reilly Media |
+| C++: The Complete Reference | Copyright © 2003 by The McGraw-Hill Companies |
+| Guide to Scientific Computing in C++ | © Springer International Publishing AG, part of Springer Nature 2017 |
+| Mastering C++ Multithreading | Copyright © 2017 Packt Publishing |
+| Object-Oriented Programming in C++ | Copyright © 2002 by Sams Publishing |
+| SDL Game Development | Copyright © 2013 Packt Publishing |
+| SFML Blueprints | Copyright © 2015 Packt Publishing |
+| SFML Essentials | Copyright © 2015 Packt Publishing |
+| SFML Game Development By Example | Copyright © 2015 Packt Publishing |
+| SFML Game Development | Copyright © 2013 Packt Publishing |
+| The C++ Standard Library_ A Tutorial and Reference | Copyright © 2012 Pearson Education, Inc. |
 
 ## Calculus
 
