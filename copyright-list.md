@@ -206,21 +206,21 @@
 | Book | License/Copyright |
 |:----:|:---------:|
 | Calculo A - Flemming |  |
-| Cálculo B - Flemming |  |
-| Cálculo vol. 1, 7ª ed. - Stewart |  |
-| Cálculo vol. 2, 5 ª ed. - Stewart |  |
+| Calculo B - Flemming |  |
+| Calculo vol. 1, 7ª ed. - Stewart | © 2014 Cengage Learning Edições Ltda. |
+| Calculo vol. 2, 5ª ed. - Stewart | Copyright © 2006 para a Língua Portuguesa adquirido por Thomson Learning Edições Ltda., uma divisão da Thomson Learning, Inc. |
 | Cálculo vol. 2, 6ª ed. - Stewart |  |
-| Cálculo vol. 2, 7ª ed. - Stewart |  |
+| Cálculo vol. 2, 7ª ed. - Stewart | © 2014 Cengage Learning Edições Ltda. |
+| Um Curso de Calculo vol. 1 - Guidorizzi | Copyright © 1985, 1987, 1997, 2000, 2001 by Hamilton Luiz Guidorizzi |
 | Um Curso de Calculo vol. 2 - Guidorizzi |  |
 | Um Curso de Calculo vol. 3 - Guidorizzi |  |
 | Um Curso de Calculo vol. 4 - Guidorizzi |  |
-| Um Curso de Cálculo vol. 1 - Guidorizzi |  |
-| Calculus Essentials For Dummies |  |
-| Calculus For Dummies |  |
-| Calculus For Dummies_ 1001 Practice Problems |  |
-| Calculus II For Dummies |  |
-| Calculus Workbook For Dummies |  |
-| Calculus vol. 2_ Complete Solutions Manual - Stewart |  |
+| Calculus Essentials For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Calculus For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Calculus For Dummies_ 1001 Practice Problems | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Calculus II For Dummies | Copyright © 2012 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Calculus Workbook For Dummies | Copyright © 2005 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Calculus vol. 2_ Complete Solutions Manual - Stewart | © 2012 Brooks/Cole, Cengage Learning |
 
 #### Tables
 
