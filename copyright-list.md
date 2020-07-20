@@ -380,44 +380,44 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Aplicacoes Java para a web com JSF e JPA |  |
+| Aplicacoes Java para a web com JSF e JPA | © Casa do Código |
 | Apostila Java e POO |  |
-| CDI: Integre as dependencias e contextos do seu codigo Java |  |
-| Componentes Reutilizaveis em Java Com Reflexoes e Anotacoes |  |
-| Desbravando Java e Orientacao a Objetos_ Um guia para o iniciante da linguagem |  |
-| Design Patterns com Java_ Projeto orientado a objetos guiado por padroes |  |
-| Explorando APIs e bibliotecas Java_ JDBC, IO, Threads, JavaFX e mais |  |
-| JPA Eficaz_ As melhores praticas de persistencia de dados em Java |  |
-| JSF Eficaz_ As melhores praticas para o desenvolvedor web Java |  |
-| Java 8 Pratico_ Lambdas, Streams e os novos recursos da linguagem |  |
-| Java SE 7 Programmer I_ O guia para sua certificacao Oracle Certified Associate |  |
+| CDI: Integre as dependencias e contextos do seu codigo Java | @ Casa do Código |
+| Componentes Reutilizaveis em Java Com Reflexoes e Anotacoes | @ Casa do Código |
+| Desbravando Java e Orientacao a Objetos_ Um guia para o iniciante da linguagem | @ Casa do Código |
+| Design Patterns com Java_ Projeto orientado a objetos guiado por padroes | @ Casa do Código |
+| Explorando APIs e bibliotecas Java_ JDBC, IO, Threads, JavaFX e mais | @ Casa do Código |
+| JPA Eficaz_ As melhores praticas de persistencia de dados em Java | @ Casa do Código |
+| JSF Eficaz_ As melhores praticas para o desenvolvedor web Java | @ Casa do Código |
+| Java 8 Pratico_ Lambdas, Streams e os novos recursos da linguagem | @ Casa do Código |
+| Java SE 7 Programmer I_ O guia para sua certificacao Oracle Certified Associate | @ Casa do Código |
 | Java e Orientacao a Objetos |  |
 | Java para Desenvolvimento Web |  |
-| JavaFX_ Interfaces com qualidade para aplicacoes desktop |  |
-| MundoJ_ Orientacao a Objetos |  |
-| MundoJ_ Seguranca com Java |  |
-| Orientacao a Objetos em Java |  |
-| Play Framework_ Java para web sem servlets e com diversao |  |
-| Spring MVC_ Domine o principal framework web Java |  |
-| Vire o jogo com Spring Framework |  |
-| Vraptor_ Desenvolvimento Agil para Web com Java |  |
-| Beginning Java 9 Fundamentals_ Arrays, Objects, Modules, JShell, and Regular Expressions |  |
-| Beginning Programming with Java For Dummies |  |
+| JavaFX_ Interfaces com qualidade para aplicacoes desktop | © Casa do Código |
+| MundoJ_ Orientacao a Objetos | © Casa do Código |
+| MundoJ_ Seguranca com Java | © Casa do Código |
+| Orientacao a Objetos em Java | [Special License][k19] |
+| Play Framework_ Java para web sem servlets e com diversao | © Casa do Código |
+| Spring MVC_ Domine o principal framework web Java | © Casa do Código |
+| Vire o jogo com Spring Framework | © Casa do Código |
+| Vraptor_ Desenvolvimento Agil para Web com Java | © Casa do Código |
+| Beginning Java 9 Fundamentals | Copyright © 2017 by Kishori Sharan |
+| Beginning Programming with Java For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
 | Building a REST API with Spring |  |
-| Guide to Java |  |
-| Introducing Java 8 |  |
-| JUnit Programming Cookbook |  |
-| Java 8 Pocket Guide |  |
-| Java 9 Programming By Example |  |
-| Java All-in-One For Dummies |  |
-| Java Code Conventions |  |
-| Java Cookbook |  |
-| Java for Dummies |  |
-| Java_ The Complete Reference |  |
-| Java_ The Good Parts |  |
-| Java_ The Legend |  |
-| Mastering Java 9 |  |
-| Modern Java EE Design Patterns |  |
+| Guide to Java | © Springer-Verlag London 2014 |
+| Introducing Java 8 | Copyright © 2015 O’Reilly Media, Inc. |
+| JUnit Programming Cookbook | Copyright © Exelixis Media P.C., 2017 |
+| Java 8 Pocket Guide | Copyright © 2014 Gliesian, LLC |
+| Java 9 Programming By Example | Copyright © 2017 Packt Publishing |
+| Java All-in-One For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Java Code Conventions | © 1997, Sun Microsystems, Inc. |
+| Java Cookbook | Copyright © 2014 RejmiNet Group, Inc. |
+| Java for Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Java_ The Complete Reference | Copyright © 2019 by McGraw-Hill Education |
+| Java_ The Good Parts | Copyright © 2010 Jim Waldo |
+| Java_ The Legend | Copyright © 2015 O’Reilly Media, Inc. |
+| Mastering Java 9 | Copyright © 2017 Packt Publishing |
+| Modern Java EE Design Patterns | Copyright © 2016 O’Reilly Media |
 
 ## LaTeX
 
@@ -938,6 +938,7 @@
 [CC BY-NC-SA 3.0]: https://creativecommons.org/licenses/by-nc-sa/3.0/
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+[k19]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/449b9ad1bc04bdd140cc9b0c3c1d5369b9d6d4a7/k19.md
 [postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
 [rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
 [tutorial-quartus]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/43b4c5f9ce12aa20f4cf864ca3ed7e1c498fa773/tutorial-quartus.md
