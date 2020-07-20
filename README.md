@@ -24,6 +24,6 @@ However, it's **strongly** recommended not to use them for commercial purposes.
 
 ### :trophy: Copyright/License
 
-Answering to [this issue](https://github.com/PauloGSC/free-ebooks/issues/2), currently I'm in an effort to collect the copyright info concerning all the books in this repo. The data gathered will be gradually updated to this repo through the [copyright-list.md]((https://github.com/PauloGSC/free-ebooks/copyright-list.md)) file.
+Answering to [this issue](https://github.com/PauloGSC/free-ebooks/issues/2), currently I'm in an effort to collect the copyright info concerning all the books in this repo. The data gathered will be gradually updated to this repo through the [copyright-list.md](https://github.com/PauloGSC/free-ebooks/copyright-list.md) file.
 
 In advance, however, I state that all copyrights go to the books's authors, and that I do not claim property or copyright of any book present in this repository.
