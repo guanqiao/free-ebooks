@@ -371,10 +371,10 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Creating Functional Teams for the IoT |  |
-| Governing the IoT |  |
-| Opportunities and Challenges in the IoT |  |
-| What is the Internet of Things |  |
+| Creating Functional Teams for the IoT | Copyright © 2015 O’Reilly Media |
+| Governing the IoT | Copyright © 2016 O’Reilly Media, Inc. |
+| Opportunities and Challenges in the IoT | Copyright © 2015 O’Reilly Media, Inc. |
+| What is the Internet of Things | Copyright © 2015 O’Reilly Media, Inc. |
 
 ## Java
 
