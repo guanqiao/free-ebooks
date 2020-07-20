@@ -25,12 +25,12 @@
 
 | Book | Copyright |
 |:----:|:---------:|
-| Algebra Linear |  |
+| Algebra Linear | Copyright © 1987 da Editora McGraw-Hill, Ltda. |
 | Apostila de Algebra Linear |  |
 | Geometria Analitica |  |
-| Vetores e Geometria Analitica - 1ª ed |  |
-| Vetores e Geometria Analitica - 2ª ed |  |
-| Linear Algebra For Dummies |  |
+| Vetores e Geometria Analitica - 1ª ed | © 2000 by Pearson Education do Brasil |
+| Vetores e Geometria Analitica - 2ª ed | © 2014 by Pearson Education do Brasil |
+| Linear Algebra For Dummies | Copyright © 2009 by Wiley Publishing, Inc., Indianapolis, Indiana |
 
 ## Artificial Intelligence
 
