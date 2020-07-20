@@ -237,8 +237,8 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Introduction to Computer Graphics |  |
-| Mathematics for Computer Graphics |  |
+| Introduction to Computer Graphics | © Springer-Verlag London Limited 2008, 2012 |
+| Mathematics for Computer Graphics | © Springer-Verlag London Ltd. 2001, 2006, 2010, 2014, 2017 |
 
 ## Computer Networks
 
