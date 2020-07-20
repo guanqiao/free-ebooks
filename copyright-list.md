@@ -171,12 +171,12 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Introducao a programação em C_ Os primeiros passos de um desenvolvedor |  |
-| Linguagem C_ Descomplicada |  |
-| 21st Century C |  |
-| C Primer Plus |  |
-| C for Dummies |  |
-| Modern C |  |
+| Introducao a programação em C_ Os primeiros passos de um desenvolvedor | © Casa do Código |
+| Linguagem C_ Descomplicada | © Elsevier Editora Ltda. |
+| 21st Century C | Copyright © 2013 Ben Klemens |
+| C Primer Plus | Copyright © 2014 by Pearson Education, Inc. |
+| C for Dummies | Copyright © 2004 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Modern C | © 2020 by Manning Publications Co. |
 
 ## C++
 
