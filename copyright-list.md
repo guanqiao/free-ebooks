@@ -365,7 +365,7 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Basic Graph Theory |  |
+| Basic Graph Theory | © Springer International Publishing AG 2017 |
 
 ## Internet of Things
 
