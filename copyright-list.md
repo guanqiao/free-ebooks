@@ -278,16 +278,16 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Concise Computer Vision |  |
-| Introduction to Video and Image Processing |  |
-| Learning OpenCV 3 Computer Vision with Python |  |
-| Mastering OpenCV 3 |  |
-| Mastering OpenCV with Practical Computer Vision Projects |  |
-| OpenCV 3 Computer Vision Application Programming Cookbook |  |
-| OpenCV Computer Vision with Python |  |
-| Principles of Digital Image Processing_ Advanced Methods |  |
-| Principles of Digital Image Processing_ Core Algorithms |  |
-| Principles of Digital Image Processing_ Fundamental Techniques |  |
+| Concise Computer Vision | © Springer-Verlag London 2014 |
+| Introduction to Video and Image Processing | © Springer-Verlag London Limited 2012 |
+| Learning OpenCV 3 Computer Vision with Python | Copyright © 2015 Packt Publishing |
+| Mastering OpenCV 3 | Copyright © 2017 Packt Publishing |
+| Mastering OpenCV with Practical Computer Vision Projects | Copyright © 2012 Packt Publishing |
+| OpenCV 3 Computer Vision Application Programming Cookbook | Copyright © 2017 Packt Publishing |
+| OpenCV Computer Vision with Python | Copyright © 2013 Packt Publishing |
+| Principles of Digital Image Processing_ Advanced Methods | © Springer-Verlag London 2013 |
+| Principles of Digital Image Processing_ Core Algorithms | © Springer-Verlag London Limited 2009 |
+| Principles of Digital Image Processing_ Fundamental Techniques | © Springer-Verlag London Limited 2009 |
 
 ## Database
 
