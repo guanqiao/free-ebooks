@@ -36,11 +36,11 @@
 
 | Book | Copyright |
 |:----:|:---------:|
-| Artificial Intelligence By Example |  |
-| Artificial Intelligence for Dummies |  |
-| Artificial Intelligence with Python |  |
-| Artificial Intelligence_ A Modern Approach |  |
-| Introduction to Artificial Intelligence |  |
+| Artificial Intelligence By Example | Copyright © 2018 Packt Publishing |
+| Artificial Intelligence for Dummies | Copyright © 2018 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Artificial Intelligence with Python | Copyright © 2017 Packt Publishing |
+| Artificial Intelligence_ A Modern Approach | © Pearson Education Limited 2016 |
+| Introduction to Artificial Intelligence | © Springer International Publishing AG 2017 |
 
 #### Machine Learning
 
