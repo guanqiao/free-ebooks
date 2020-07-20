@@ -342,8 +342,8 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Linguagens Formais e Automatos |  |
-| A Concise Introduction to Languages and Machines |  |
+| Linguagens Formais e Automatos | © Springer-Verlag London Limited 2008 |
+| A Concise Introduction to Languages and Machines | © de Paulo Blauth Menezes |
 
 ## Git
 
