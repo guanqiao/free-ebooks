@@ -423,11 +423,11 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Apostila de LaTeX |  |
+| Apostila de LaTeX | [Special license][uff] |
 | Curso LaTeX |  |
 | Curso de Introducao ao LaTeX |  |
 | Curso de LaTeX |  |
-| LaTeX by Wikibooks |  |
+| LaTeX by Wikibooks | [CC BY-SA 3.0][CC BY-SA 3.0] |
 
 ## Linux
 
@@ -942,4 +942,5 @@
 [postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
 [rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
 [tutorial-quartus]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/43b4c5f9ce12aa20f4cf864ca3ed7e1c498fa773/tutorial-quartus.md
+[uff]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/fbd23f96e346312e27f27d23bb97608f6d3c6280/uff.md
 [vhdl-whiz]: https://vhdlwhiz.com/terms-of-service/
