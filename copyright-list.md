@@ -493,12 +493,12 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Foundations of Programming Languages |  |
-| Introduction to the Theory of Programming Languages |  |
-| Principles of Programming Languages |  |
-| Programming Language Concepts |  |
-| Programming Languages and Operational Semantics |  |
-| Programming Languages_ Principles and Paradigms |  |
+| Foundations of Programming Languages | © Springer International Publishing AG 2017 |
+| Introduction to the Theory of Programming Languages | © Springer-Verlag London Limited 2011 |
+| Principles of Programming Languages | © Springer-Verlag London Limited 2009 |
+| Programming Language Concepts | © Springer International Publishing AG 2017 |
+| Programming Languages and Operational Semantics | © Springer-Verlag London 2014 |
+| Programming Languages_ Principles and Paradigms | © Springer-Verlag London Limited 2010 |
 
 ## Python
 
