@@ -20,10 +20,10 @@ In order to work around this, large `.pdf` ebooks are replaced with `.txt` files
 
 As the name of the repo implies, all the ebooks are free to download, read, share and so on.
 
-However, it's **strongly** recommended not to use them for commercial purposes.
+Regarding commercial purposes, one should look the desired book up in the [copyrights file](copyright-list.md).
 
 ### :trophy: Copyright/License
 
-Answering to [this issue](https://github.com/PauloGSC/free-ebooks/issues/2), currently I'm in an effort to collect the copyright info concerning all the books in this repo. The data gathered will be gradually updated to this repo through the [copyright-list.md](copyright-list.md) file.
+The copyright and license information for the majority of the books is available in the [copyright-list.md][copyright-list.md] file. Some of the books, however, lack this info, for now.
 
-In advance, however, I state that all copyrights go to the books's authors, and that I do not claim property or copyright of any book present in this repository.
+In advance, the author of this repo states that all copyrights go to the books's authors, publishers  or respective owners. The author does not claim property or copyright of any book present in this repository.
