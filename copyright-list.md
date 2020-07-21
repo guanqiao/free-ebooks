@@ -505,89 +505,89 @@
 | Book | License/Copyright |
 |:----:|:---------:|
 | Interpretador e Compilador Python |  |
-| Automate it!_ Recipes to upskill your business |  |
-| Bioinformatics Programming Using Python |  |
-| Building RESTful Python Web Services |  |
-| Building Web Applications with Flask |  |
-| Classic Computer Science Problems in Python |  |
-| Computer Simulation_ A Foundational Approach Using Python |  |
-| Function Programming in Python |  |
-| Hadoop with Python |  |
-| How to Make Mistakes in Python |  |
-| Instant Flask Web Development |  |
-| Picking a Python Version_ A Manifesto |  |
-| Python Network Programming Cookbook |  |
-| Python Unit Test Automation_ Practical Techniques for Python Developers and Testers |  |
-| Python for Secret Agents |  |
-| Python in Education |  |
-| Scientific Computing with Python 3 |  |
-| Software Architecture with Python |  |
-| Spark for Python Developers |  |
-| Test-Driven Development with Python |  |
-| wxPython 2.8 Application Development Cookbook |  |
+| Automate it!_ Recipes to upskill your business | Copyright © 2017 Packt Publishing |
+| Bioinformatics Programming Using Python | Copyright © 2010 Mitchell L Model |
+| Building RESTful Python Web Services | Copyright © 2016 Packt Publishing |
+| Building Web Applications with Flask | Copyright © 2015 Packt Publishing |
+| Classic Computer Science Problems in Python | © 2019 by Manning Publications Co. |
+| Computer Simulation_ A Foundational Approach Using Python | © 2018 by Taylor & Francis Group, LLC |
+| Function Programming in Python | Copyright © 2015 O’Reilly Media, Inc. |
+| Hadoop with Python | Copyright © 2016 O’Reilly Media, Inc. |
+| How to Make Mistakes in Python | Copyright © 2015 O’Reilly Media, Inc. |
+| Instant Flask Web Development | Copyright © 2013 Packt Publishing |
+| Picking a Python Version_ A Manifesto | Copyright © 2015 O’Reilly Media, Inc. |
+| Python Network Programming Cookbook | Copyright © 2014 Packt Publishing |
+| Python Unit Test Automation_ Practical Techniques for Python Developers and Testers | Copyright © 2017 by Ashwin Pajankar |
+| Python for Secret Agents | Copyright © 2014 Packt Publishing |
+| Python in Education | Copyright © 2015 O’Reilly Media, Inc. |
+| Scientific Computing with Python 3 | Copyright © 2016 Packt Publishing |
+| Software Architecture with Python | Copyright © 2017 Packt Publishing |
+| Spark for Python Developers | Copyright © 2015 Packt Publishing |
+| Test-Driven Development with Python | Copyright © 2017 Harry Percival |
+| wxPython 2.8 Application Development Cookbook | Copyright © 2010 Packt Publishing |
 
 #### Django
 
 | Book | License/Copyright |
 |:----:|:---------:|
 | Desenvolvimento Web com Python e Django |  |
-| Beginning Django CMS |  |
-| Beginning Django E-Commerce |  |
-| Mastering Django |  |
-| The Definitive Guide to Django |  |
-| Web Development with Django Cookbook |  |
+| Beginning Django CMS | Copyright © 2015 by Nigel George |
+| Beginning Django E-Commerce | Copyright © 2009 by Jim McGaw |
+| Mastering Django | [GNU FDL 1.3][GNU FDL 1.3] |
+| The Definitive Guide to Django | Copyright © 2009 by Adrian Holovaty and Jacob Kaplan-Moss |
+| Web Development with Django Cookbook | Copyright © 2014 Packt Publishing |
 
 #### Guides, tutorials, references
 
 | Book | License/Copyright |
 |:----:|:---------:|
 | Python e Orientacao a Objetos |  |
-| Python_ Escreva seus primeiros programas |  |
-| A Beginners Guide To Python 3 Programming |  |
-| A Byte of Python |  |
-| A Whirlwind Tour of Python |  |
-| Advanced Guide to Python 3 Programming |  |
-| Beginning Programming with Python For Dummies |  |
-| Beginning Python Using Python 2.6 and Python 3.1 |  |
-| Beginning Python_ From Novice to Professional |  |
-| Expert Python Programming |  |
-| Mastering Python |  |
-| Modern Python Cookbook |  |
-| Python 3 Object-oriented Programming |  |
-| Python Cookbook |  |
-| Python Data Structures and Algorithms |  |
-| Python GUI Programming Cookbook - 2nd ed |  |
-| Python Pocket Reference |  |
-| Python Programming Fundamentals |  |
-| Python Unlocked |  |
-| Python_ Journey from Novice to Expert |  |
-| The Quick Python Book |  |
-| Think Python_ How to Think Like a Computer Scientist |  |
-| What You Need to Know about Python |  |
+| Python_ Escreva seus primeiros programas | © Casa do Código |
+| A Beginners Guide To Python 3 Programming | © Springer Nature Switzerland AG 2019 |
+| A Byte of Python | [CC BY-SA 4.0][CC BY-SA 4.0] |
+| A Whirlwind Tour of Python | Copyright © 2016 O’Reilly Media Inc. |
+| Advanced Guide to Python 3 Programming | © Springer Nature Switzerland AG 2019 |
+| Beginning Programming with Python For Dummies | Copyright © 2014 by John Wiley & Sons, Inc., Hoboken, New Jersey |
+| Beginning Python Using Python 2.6 and Python 3.1 | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana |
+| Beginning Python_ From Novice to Professional | Copyright © 2017 by Magnus Lie Hetland |
+| Expert Python Programming | Copyright © 2016 Packt Publishing |
+| Mastering Python | Copyright © 2016 Packt Publishing |
+| Modern Python Cookbook | Copyright © 2016 Packt Publishing |
+| Python 3 Object-oriented Programming | Copyright © 2015 Packt Publishing |
+| Python Cookbook | Copyright © 2013 David Beazley and Brian Jones |
+| Python Data Structures and Algorithms | Copyright © 2017 Packt Publishing |
+| Python GUI Programming Cookbook - 2nd ed | Copyright © 2017 Packt Publishing |
+| Python Pocket Reference | Copyright © 2010 Mark Lutz |
+| Python Programming Fundamentals | © Springer-Verlag London 2014 |
+| Python Unlocked | Copyright © 2015 Packt Publishing |
+| Python_ Journey from Novice to Expert | Copyright © 2016 Packt Publishing |
+| The Quick Python Book | © 2010 by Manning Publications Co. |
+| Think Python_ How to Think Like a Computer Scientist | Copyright © 2016 Allen Downey |
+| What You Need to Know about Python | Copyright © 2016 Packt Publishing |
 
 #### Libraries
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| 20 Python Libraries You Aren’t Using (But Should) |  |
-| Beginning Game Development with Python and Pygame |  |
-| Data Structures and Algorithms with Python |  |
-| Doing Math with Python |  |
+| 20 Python Libraries You Aren’t Using (But Should) | Copyright © 2016 O’Reilly Media Inc. |
+| Beginning Game Development with Python and Pygame | Copyright © 2007 by Will McGugan |
+| Data Structures and Algorithms with Python | © Springer International Publishing Switzerland 2015 |
+| Doing Math with Python | Copyright © 2015 by Amit Saha |
 | GUI Programming using Tkinter |  |
-| Guide to NumPy |  |
-| Math Adventures with Python |  |
-| Matplotlib for Python Developers |  |
-| NumPy Beginners Guide |  |
-| Numerical Python Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib |  |
+| Guide to NumPy | [Special license][numpy] |
+| Math Adventures with Python | Copyright © 2019 by Peter Farrell |
+| Matplotlib for Python Developers | Copyright © 2009 Packt Publishing |
+| NumPy Beginners Guide | Copyright © 2015 Packt Publishing |
+| Numerical Python Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib | Copyright © 2019 by Robert Johansson |
 | Numpy User Guide |  |
-| Python GUI Programming Cookbook - 1st ed |  |
-| Python GUI Programming Cookbook - 2nd ed |  |
-| Python Tkinter By Example |  |
-| SciPy and NumPy |  |
-| The Python 3 Standard Library by Example |  |
+| Python GUI Programming Cookbook - 1st ed | Copyright © 2015 Packt Publishing |
+| Python GUI Programming Cookbook - 2nd ed | Copyright © 2017 Packt Publishing |
+| Python Tkinter By Example | [CC BY-ND 4.0][CC BY-ND 4.0] |
+| SciPy and NumPy | Copyright © 2013 Eli Bressert |
+| The Python 3 Standard Library by Example | Copyright © 2017 Pearson Education, Inc. |
 | Tkinter 8.5 reference_ a GUI for Python |  |
-| Tkinter GUI Application Development Blueprints |  |
-| Tkinter GUI Application Development Hotshot |  |
+| Tkinter GUI Application Development Blueprints | Copyright © 2015 Packt Publishing |
+| Tkinter GUI Application Development Hotshot | Copyright © 2013 Packt Publishing |
 
 ## Regex
 
@@ -932,17 +932,19 @@
 [CC BY 3.0]: https://creativecommons.org/licenses/by/3.0/
 [CC BY 4.0]: https://creativecommons.org/licenses/by/4.0/
 [CC BY-NC 3.0]: https://creativecommons.org/licenses/by-nc/3.0/deed.en_GB
-[CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
-[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 [CC BY-NC-ND 3.0]: https://creativecommons.org/licenses/by-nc-nd/3.0/
 [CC BY-NC-SA 3.0]: https://creativecommons.org/licenses/by-nc-sa/3.0/
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[CC BY-ND 4.0]: https://creativecommons.org/licenses/by-nd/4.0/
+[CC BY-SA 3.0]: https://creativecommons.org/licenses/by-sa/3.0/
+[CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
 
 [GNU FDL 1.2]: https://www.gnu.org/licenses/old-licenses/fdl-1.2.html
 [GNU FDL 1.3]: https://www.gnu.org/licenses/fdl-1.3.html
 
 [garrels]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/846e7af631fa9c3b134ef7eb01585f52f2443d2c/garrels.md
 [k19]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/449b9ad1bc04bdd140cc9b0c3c1d5369b9d6d4a7/k19.md
+[numpy]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a7bcbf44152174417f1dfe86ddf5d6846b208820/numpy.md
 [postgreqsl-doc]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/54640c702c9fc91809621cc76fac342ffc4ac559/postgresql-doc.md
 [rfbl]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/a1d823f7049f093d142f3095c5f33108304cf7a7/read-first-buy-later.md
 [tutorial-quartus]: https://gist.githubusercontent.com/PauloGSC/29d6bb06693bdad750f378998b593c64/raw/43b4c5f9ce12aa20f4cf864ca3ed7e1c498fa773/tutorial-quartus.md
