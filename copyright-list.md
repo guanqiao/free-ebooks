@@ -607,9 +607,9 @@
 
 | Book | License/Copyright |
 |:----:|:---------:|
-| Introducao a Computacao_ Da Logica aos jogos com Ruby |  |
-| Ruby on Rails_ Coloque sua aplicacao web nos trilhos |  |
-| Ruby_ Aprenda a programar na linguagem mais divertida |  |
+| Introducao a Computacao_ Da Logica aos jogos com Ruby | © Casa do Código |
+| Ruby on Rails_ Coloque sua aplicacao web nos trilhos | © Casa do Código |
+| Ruby_ Aprenda a programar na linguagem mais divertida | © Casa do Código |
 
 ## Software Engineering
 
