@@ -113,6 +113,7 @@
 | Deep Learning for Computer Vision with Python - Starter Bundle | Copyright © 2017 Adrian Rosebrock, PyImageSearch.com | All rights reserved |
 | Deep Learning for Computer Vision | Copyright © 2018 Packt Publishing | All rights reserved |
 | Deep Learning for Vision Systems | Copyright 2019 Manning Publications | All rights reserved |
+| Deep Learning in Object Detection and Recognition | © Springer Nature Singapore Pte Ltd. 2019 | All rights reserved |
 | Deep Learning with JavaScript | © 2020 by Manning Publications Co. | All rights reserved |
 | Deep Learning with PyTorch - Packt | Copyright © 2018 Packt Publishing | All rights reserved |
 | Deep Learning with PyTorch_ Essential Excerpts - Manning | Copyright 2019 Manning Publications | All rights reserved |
@@ -282,7 +283,7 @@
 |:----:|:---------:|:-------:|
 | Computer Vision_ A Modern Approach | Copyright © 2012, 2003 by Pearson Education, Inc., publishing as Prentice Hall | All rights reserved |
 | Computer Vision_ Algorithms and Applications | © Springer-Verlag London Limited 2011 | All rights reserved |
-| Computer Vision_ models, learning and inference | Copyright © 2011, 2012 by Simon Prince | All rights reserved |
+| Computer Vision_ Models, Learning and Inference | Copyright © 2011, 2012 by Simon Prince | All rights reserved |
 | Concise Computer Vision | © Springer-Verlag London 2014 | All rights reserved |
 | Introduction to Video and Image Processing | © Springer-Verlag London Limited 2012 | All rights reserved |
 | Learning OpenCV 3 Computer Vision with Python | Copyright © 2015 Packt Publishing | All rights reserved |
