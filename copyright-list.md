@@ -291,6 +291,7 @@
 | Mastering OpenCV with Practical Computer Vision Projects | Copyright © 2012 Packt Publishing | All rights reserved |
 | OpenCV 3 Computer Vision Application Programming Cookbook | Copyright © 2017 Packt Publishing | All rights reserved |
 | OpenCV Computer Vision with Python | Copyright © 2013 Packt Publishing | All rights reserved |
+| Practical Python and OpenCV | Copyright © 2016 Adrian Rosebrock, PyImageSearch.com | All rights reserved |
 | Principles of Digital Image Processing_ Advanced Methods | © Springer-Verlag London 2013 | All rights reserved |
 | Principles of Digital Image Processing_ Core Algorithms | © Springer-Verlag London Limited 2009 | All rights reserved |
 | Principles of Digital Image Processing_ Fundamental Techniques | © Springer-Verlag London Limited 2009 | All rights reserved |
