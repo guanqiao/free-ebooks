@@ -516,6 +516,7 @@
 | Statistics Essentials For Dummies | Copyright © 2010 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
 | Statistics For Dummies | Copyright © 2011 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
 | Statistics II For Dummies | Copyright © 2009 by Wiley Publishing, Inc., Indianapolis, Indiana | All rights reserved |
+| The Statistics Practically Cheating Statistics Handbook | © 2010 S. Deviant | All rights reserved |
 
 ## Programming Languages
 
