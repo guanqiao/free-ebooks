@@ -321,16 +321,20 @@
 | Book | Copyright | License |
 |:----:|:---------:|:-------:|
 | Armazenando dados com Redis | © Casa do Código | All rights reserved |
+| Learning SQL | Copyright © 2009 O’Reilly Media, Inc | All rights reserved |
 | MongoDB_ Construa novas aplicacoes com novas tecnologias | © Casa do Código | All rights reserved |
 | MySQL_ Comece com o principal banco de dados open source do mercado | © Casa do Código | All rights reserved |
 | PL-SQL_ Domine a linguagem do banco de dados Oracle | © Casa do Código | All rights reserved |
+| Practical SQL | Copyright © 2018 by Anthony DeBarros | All rights reserved |
 | Projeto de Banco de Dados | © Carlos A. Heuser, 1998 | All rights reserved |
+| SQL_ A Beginnner's Guide | Copyright © 2009 by The McGraw-Hill Companies | All rights reserved |
+| SQL_ The Complete Reference | Copyright © 2010 by The McGraw-Hill Companies | All rights reserved |
 | SQL_ Uma abordagem para bancos de dados Oracle | © Casa do Código | All rights reserved |
 | Sistema de Banco de Dados - Silberschatz |  | All rights reserved |
 | Sistemas de Banco de dados - Elmasri | © 2011 by Pearson Education do Brasil | All rights reserved |
 | Concise Guide to Databases | © Springer-Verlag London 2013 | All rights reserved |
 | PostgresSQL 9.5 Documentation || [Specific license][postgresql-doc] |
-| SQL For Dummies | Copyright © 2013 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
+| SQL For Dummies | Copyright © 2019 by John Wiley & Sons, Inc., Hoboken, New Jersey | All rights reserved |
 
 ## Digital Circuits
 
