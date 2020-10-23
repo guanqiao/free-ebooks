@@ -1,52 +1,53 @@
-MARTINEZ, E. R. React: Cross-Platform Application Development with React Native. 2018.
-
-ZAMBRANO, B. Serverless Design Patterns and Best Practices. 2018.
-
-WAHER, P. Mastering Internet of Things. 2018.
-
-QUINN, R. Hands-On System Programming with C++. 2018.
-
-YE, J. J. Building Applications with Spring 5 and Vue.js 2. 2018.
-
-SHILKROT, R. et al. Mastering OpenCV 4. 2018.
-
-ARUMUGAM, R. et al. Hands-On Natural Language Processing with Python. 2018.
-
-DESHPANDE, A. Artificial Intelligence for Big Data. 2018.
-
-VERHAS, P. Java Projects. 2018.
-
-HALLIDAY, P. Vue.js 2 Design Patterns and Best Practices. 2018.
-
-LIU, Y. Python Machine Learning By Example. 2017.
-
-ROMANO, F. Learn Python Programming. 2018.
+AHMED, I. et al. PostgreSQL 10 High Performance. 2018.
 
 ARORA, C. Angular 6 by Example. 2018.
 
+ARUMUGAM, R. et al. Hands-On Natural Language Processing with Python. 2018.
+
 BONACCORSO, G. Mastering Machine Learning Algorithms. 2018.
-
-LEE, J. Java 9 Programming Blueprints. 2017.
-
-GONZALEZ, D. Implementing Modern DevOps. 2017.
-
-FILIPOVA, O. Vue.js 2 and Bootstrap 4 Web Development. 2017. (PDF)
-
-DELISLE, M. Creating your MySQL Database. 2006.
 
 CUESTA, H. Practical Data Analysis. 2013.
 
-AHMED, I. et al. PostgreSQL 10 High Performance. 2018.
-
-TSONEV, K. Node.js Blueprints. 2014. (PDF)
-
-KIESSLING, M. The Node Craftsman Book. 2017. (PDF)
-
 DADHICH, A. Practical Computer Vision. 2018.
+
+DELISLE, M. Creating your MySQL Database. 2006.
+
+DESHPANDE, A. Artificial Intelligence for Big Data. 2018.
+
+FILIPOVA, O. Vue.js 2 and Bootstrap 4 Web Development. 2017. (PDF)
+
+GONZALEZ, D. Implementing Modern DevOps. 2017.
+
+HALLIDAY, P. Vue.js 2 Design Patterns and Best Practices. 2018.
 
 JAKOBUS, B. et al. Mastering Bootstrap 4. 2018.
 
+KIESSLING, M. The Node Craftsman Book. 2017. (PDF)
+
 LACROIX, J. Linux Mint Essentials. 2014. (PDF)
+
+LEE, J. Java 9 Programming Blueprints. 2017.
+
+LIU, Y. Python Machine Learning By Example. 2017.
+
+MARTINEZ, E. R. React: Cross-Platform Application Development with React Native. 2018.
+
+MOORE, A. D. Python GUI programming with Tkinter. 2018.
+
+QUINN, R. Hands-On System Programming with C++. 2018.
+
+ROMANO, F. Learn Python Programming. 2018.
 
 SEHR, V. et al. C++ High Performance. 2018.
 
+SHILKROT, R. et al. Mastering OpenCV 4. 2018.
+
+TSONEV, K. Node.js Blueprints. 2014. (PDF)
+
+VERHAS, P. Java Projects. 2018.
+
+WAHER, P. Mastering Internet of Things. 2018.
+
+YE, J. J. Building Applications with Spring 5 and Vue.js 2. 2018.
+
+ZAMBRANO, B. Serverless Design Patterns and Best Practices. 2018.
